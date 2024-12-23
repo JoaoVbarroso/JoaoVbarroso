@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje eu trabalho com gerenciamento de projetos ligada as areas de IA, Front-End e Back-End
+- 🔭 Hoje eu trabalho com gerenciamento de projetos ligados as areas de IA, Front-End e Back-End
 - 🌱 Estudando gerenciamento de projetos e Python. 
 
 <div style="display: inline_block"><br>
