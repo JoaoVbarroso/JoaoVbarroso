@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje eu trabalho com gerenciamento de projetos ligada as areas de IA, Front-End e Back-End
-- 🌱 Estudndo gerenciamento de projetos e Python. 
+- 🌱 Estudando gerenciamento de projetos e Python. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
